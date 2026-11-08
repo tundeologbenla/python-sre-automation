@@ -11,7 +11,7 @@ An exercise using a Python list and a `for` loop to iterate through a list of se
 ## How to Run
 
 ```bash
-python3 server_loop.py
+python3 server_variables.py
 ```
 
 ## Skills Practised
